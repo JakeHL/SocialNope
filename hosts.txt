@@ -1,6 +1,20 @@
 # Hosts file to keep you off social media
-# https://github.com/jakehl/socialnope/hosts.txt
+# https://raw.githubusercontent.com/JakeHL/SocialNope/master/hosts.txt
 
+# [Facebook]
 127.0.0.1 facebook.com
+127.0.0.1 www.facebook.com
+127.0.0.1 m.facebook.com
+
+# [Instagram]
 127.0.0.1 instagram.com
+127.0.0.1 www.instagram.com
+
+# [LinkedIn]
 127.0.0.1 linkedin.com
+127.0.0.1 www.linkedin.com
+
+# [Twitter]
+127.0.0.1 twitter.com
+127.0.0.1 www.twitter.com
+127.0.0.1 mobile.twitter.com
